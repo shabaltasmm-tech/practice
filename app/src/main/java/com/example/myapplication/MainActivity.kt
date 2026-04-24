@@ -119,4 +119,4 @@ fun ColorSearchScreenPreview() {
     MyApplicationTheme {
         ColorSearchScreen()
     }
-}
+};
